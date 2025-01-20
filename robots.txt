@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://LincDocs.github.io/any-block/sitemap.xml
+Sitemap: https://LincDocs.github.io/AnyBlock/sitemap.xml

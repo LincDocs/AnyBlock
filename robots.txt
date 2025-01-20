@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://LincDocs.github.io/any-block/sitemap.xml
